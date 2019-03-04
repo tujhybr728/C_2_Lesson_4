@@ -1,0 +1,18 @@
+c:\users\егор\documents\visual studio 2015\Projects\Asteroid_0000\Asteroid_0000\bin\Debug\Asteroid_0000.exe.config
+c:\users\егор\documents\visual studio 2015\Projects\Asteroid_0000\Asteroid_0000\obj\Debug\Asteroid_0000.csprojResolveAssemblyReference.cache
+c:\users\егор\documents\visual studio 2015\Projects\Asteroid_0000\Asteroid_0000\obj\Debug\Asteroid_0000.Form1.resources
+c:\users\егор\documents\visual studio 2015\Projects\Asteroid_0000\Asteroid_0000\obj\Debug\Asteroid_0000.Properties.Resources.resources
+c:\users\егор\documents\visual studio 2015\Projects\Asteroid_0000\Asteroid_0000\obj\Debug\Asteroid_0000.csproj.GenerateResource.Cache
+c:\users\егор\documents\visual studio 2015\Projects\Asteroid_0000\Asteroid_0000\bin\Debug\Asteroid_0000.exe
+c:\users\егор\documents\visual studio 2015\Projects\Asteroid_0000\Asteroid_0000\bin\Debug\Asteroid_0000.pdb
+c:\users\егор\documents\visual studio 2015\Projects\Asteroid_0000\Asteroid_0000\obj\Debug\Asteroid_0000.exe
+c:\users\егор\documents\visual studio 2015\Projects\Asteroid_0000\Asteroid_0000\obj\Debug\Asteroid_0000.pdb
+C:\Users\Егор\Desktop\временное\Asteroid_0000\bin\Debug\Asteroid_0000.exe.config
+C:\Users\Егор\Desktop\временное\Asteroid_0000\obj\Debug\Asteroid_0000.exe
+C:\Users\Егор\Desktop\временное\Asteroid_0000\obj\Debug\Asteroid_0000.pdb
+C:\Users\Егор\Desktop\временное\Asteroid_0000\bin\Debug\Asteroid_0000.exe
+C:\Users\Егор\Desktop\временное\Asteroid_0000\bin\Debug\Asteroid_0000.pdb
+C:\Users\Егор\Desktop\временное\Asteroid_0000\obj\Debug\Asteroid_0000.csprojResolveAssemblyReference.cache
+C:\Users\Егор\Desktop\временное\Asteroid_0000\obj\Debug\Asteroid_0000.Form1.resources
+C:\Users\Егор\Desktop\временное\Asteroid_0000\obj\Debug\Asteroid_0000.Properties.Resources.resources
+C:\Users\Егор\Desktop\временное\Asteroid_0000\obj\Debug\Asteroid_0000.csproj.GenerateResource.Cache
